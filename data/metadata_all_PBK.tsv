@@ -1,0 +1,4 @@
+ROUND	BARCODE	sample	Time	COVID19	COVID19_severity	BMI	DNI	Treatment	Age	Old	Sex	Antibiotic	remove_duplicate	filename	avg_phred	PACS	Cardioresp	Derma	Gastro	Muscul	Neuro	Systemic
+SRR31854926	SRR31854927	SRR31854928	T0	COVID	Mild	Lean	31854928	Tannins	20	n	M	Untreated		r12_b19.fq	12.32332693							
+SRR31854927	SRR31854928	SRR31854929	T14	COVID	Mild	Lean	42147727	Tannins	20	n	M	Untreated		r12_b20.fq	12.31913284							
+SRR31854933	SRR31854934	SRR31854935	T0	COVID	Mild	Obese	95320273	Tannins	21	n	F	Untreated		r12_b17.fq	12.36136393							
