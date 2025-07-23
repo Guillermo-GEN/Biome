@@ -6,4 +6,4 @@ taxdump_dir/*
 emu_database/*
 data/tmp/*
 scripts/tsv_csv_metadata_1.R
-
+!.gitkeep
